@@ -1,6 +1,9 @@
 # go-api
 
-
+```markdown Prerequisites
+Make sure you have Go installed on your system.
+Install Gin using go get -u github.com/gin-gonic/gin.
+```
 
 To start the server, navigate to the `employee_api` directory and run the main Go file:
 
